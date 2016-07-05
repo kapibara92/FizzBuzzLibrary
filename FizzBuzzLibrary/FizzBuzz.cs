@@ -7,31 +7,22 @@ namespace FizzBuzzLibrary
 {
     public class FizzBuzz
     {
-        public static string StartGame()
+        public static string GetFizzOrBuzzOrNumber(int number)
         {
-            
-            string test="";
-            for(int i = 1; i <= 100; i++)
+            if (number < 1)
             {
-                if (i%3==0 && i % 5 == 0)
-                {
-                    test += "FizzBuzz, ";
-                }
-                else if (i % 3 == 0)
-                {
-                    test += "Fizz, ";
-                }
-                else if (i % 5 == 0)
-                {
-                    test += "Buzz, ";
-                }
-                else
-                {
-                    test += i.ToString()+", ";
-                }
+                throw new ArgumentOutOfRangeException("Number should be greater than one ");
             }
-
-            return test;
+            string value;
+            if (number % 3 == 0 && number % 5 == 0)
+            { value = "FizzBuzz"; }
+            else if (number % 3 == 0)
+            { value= "Fizz"; }
+            else if (number % 5 == 0)
+            { value= "Buzz"; }
+            else
+            { value= number.ToString(); }
+            return value;
         }
     }
 }
