@@ -1,0 +1,5 @@
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.dll
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.pdb
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.dll
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.pdb

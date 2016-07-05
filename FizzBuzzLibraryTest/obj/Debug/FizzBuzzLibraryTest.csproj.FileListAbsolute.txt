@@ -1,0 +1,8 @@
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibraryTest\bin\Debug\FizzBuzzLibraryTest.dll
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibraryTest\bin\Debug\FizzBuzzLibraryTest.pdb
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibraryTest\bin\Debug\FizzBuzzLibrary.dll
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibraryTest\bin\Debug\FizzBuzzLibrary.pdb
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibraryTest\obj\Debug\FizzBuzzLibraryTest.csprojResolveAssemblyReference.cache
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibraryTest\obj\Debug\FizzBuzzLibraryTest.dll
+C:\Users\Kapibara\Desktop\FizzBuzzLibrary\FizzBuzzLibraryTest\obj\Debug\FizzBuzzLibraryTest.pdb
